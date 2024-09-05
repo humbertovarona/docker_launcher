@@ -1,0 +1,1 @@
+humbertovarona/alpcrontasks:v1&d-cron&-v "$(pwd)/shared/data:/usr/src/app/shared/data" -v "$(pwd)/crontasks:/usr/src/app/crontasks" -v "$(pwd)/scripts:/usr/src/app/scripts"&&/home/sciuser/crontask
